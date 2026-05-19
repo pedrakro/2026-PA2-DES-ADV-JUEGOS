@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 334bc70799498264ca675dca5f42de99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6031803006995076611
+    second: Dustpack_0
+  - first:
+      213: 6353914399487643272
+    second: Dustpack_1
+  - first:
+      213: -3112366505067452433
+    second: Dustpack_2
+  - first:
+      213: 3511870326388446988
+    second: Dustpack_3
+  - first:
+      213: 6027789672741506301
+    second: Dustpack_4
+  - first:
+      213: -2610223811689288039
+    second: Dustpack_5
+  - first:
+      213: 8087337024783468399
+    second: Dustpack_6
+  - first:
+      213: 4183453928110404543
+    second: Dustpack_7
+  - first:
+      213: -1464826623178444848
+    second: Dustpack_8
+  - first:
+      213: -1587382806777767697
+    second: Dustpack_9
+  - first:
+      213: 4304257071758556049
+    second: Dustpack_10
+  - first:
+      213: -6511180062234553945
+    second: Dustpack_11
+  - first:
+      213: -5637598943931335444
+    second: Dustpack_12
+  - first:
+      213: 8355942555549989146
+    second: Dustpack_13
+  - first:
+      213: -5939936547900563152
+    second: Dustpack_14
+  - first:
+      213: -463671862601307089
+    second: Dustpack_15
+  - first:
+      213: 7543749826438383042
+    second: Dustpack_16
+  - first:
+      213: -2417925078642256175
+    second: Dustpack_17
+  - first:
+      213: -4732851962474233356
+    second: Dustpack_18
+  - first:
+      213: 7765766302708242707
+    second: Dustpack_19
+  - first:
+      213: -6666041476988739647
+    second: Dustpack_20
+  - first:
+      213: -1061497652290470854
+    second: Dustpack_21
+  - first:
+      213: 7521654492008548372
+    second: Dustpack_22
+  - first:
+      213: 7221715244902416470
+    second: Dustpack_23
+  - first:
+      213: -8927720159127650039
+    second: Dustpack_24
+  - first:
+      213: -2882359384265167387
+    second: Dustpack_25
+  - first:
+      213: 1958449839576362323
+    second: Dustpack_26
+  - first:
+      213: -5987797495993062194
+    second: Dustpack_27
+  - first:
+      213: -8189118897225009437
+    second: Dustpack_28
+  - first:
+      213: -2676198162803566157
+    second: Dustpack_29
+  - first:
+      213: 5504973712738589789
+    second: Dustpack_30
+  - first:
+      213: -5252079419416945139
+    second: Dustpack_31
+  - first:
+      213: -169036613373707882
+    second: Dustpack_32
+  - first:
+      213: -7748216778655992806
+    second: Dustpack_33
+  - first:
+      213: 8965375051241415832
+    second: Dustpack_34
+  - first:
+      213: -4471767766854427268
+    second: Dustpack_35
+  - first:
+      213: -3312430114756972749
+    second: Dustpack_36
+  - first:
+      213: 2849969063562010665
+    second: Dustpack_37
+  - first:
+      213: 8687038594688994779
+    second: Dustpack_38
+  - first:
+      213: -6448403963506285300
+    second: Dustpack_39
+  - first:
+      213: -8741653707877073807
+    second: Dustpack_40
+  - first:
+      213: 7243679572445094171
+    second: Dustpack_41
+  - first:
+      213: 4279145856040810815
+    second: Dustpack_42
+  - first:
+      213: -2195233299831957686
+    second: Dustpack_43
+  - first:
+      213: 8152292253777829414
+    second: Dustpack_44
+  - first:
+      213: 659573317664720608
+    second: Dustpack_45
+  - first:
+      213: 603245999605281016
+    second: Dustpack_46
+  - first:
+      213: 7703587776423882955
+    second: Dustpack_47
+  - first:
+      213: -7253314262653866735
+    second: Dustpack_48
+  - first:
+      213: 8514333461420856497
+    second: Dustpack_49
+  - first:
+      213: -5913696956820705420
+    second: Dustpack_50
+  - first:
+      213: 8645257158360067523
+    second: Dustpack_51
+  - first:
+      213: -61974338001589448
+    second: Dustpack_52
+  - first:
+      213: -7224954380950078482
+    second: Dustpack_53
+  - first:
+      213: 2239214407098195537
+    second: Dustpack_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dustpack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 141
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9ecec7f1bba4ca0800000000000000
+      internalID: -6031803006995076611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e43ba5b73ad2850800000000000000
+      internalID: 6353914399487643272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 138
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe761a65727aec4d0800000000000000
+      internalID: -3112366505067452433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c075e95847bacb030800000000000000
+      internalID: 3511870326388446988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 118
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc868055c207a350800000000000000
+      internalID: 6027789672741506301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e6ef7d54f96cbd0800000000000000
+      internalID: -2610223811689288039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 134
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67451dec2efb3070800000000000000
+      internalID: 8087337024783468399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3bb37ce2d9e0a30800000000000000
+      internalID: 4183453928110404543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 129
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfe9eb72f3ebabe0800000000000000
+      internalID: -1464826623178444848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8d27f5fbb78f9e0800000000000000
+      internalID: -1587382806777767697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bb128700bcbbb30800000000000000
+      internalID: 4304257071758556049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a157e92b34a3a5a0800000000000000
+      internalID: -6511180062234553945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 122
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecfad831a933c1b0800000000000000
+      internalID: -5637598943931335444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19702b8b7546f370800000000000000
+      internalID: 8355942555549989146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031e60a4e2b119da0800000000000000
+      internalID: -5939936547900563152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c2e49c5e4b099f0800000000000000
+      internalID: -463671862601307089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c54647af78c0b860800000000000000
+      internalID: 7543749826438383042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d61502a3fdc17ed0800000000000000
+      internalID: -2417925078642256175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f186324738815eb0800000000000000
+      internalID: -4732851962474233356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 103
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3199f99be4b85cb60800000000000000
+      internalID: 7765766302708242707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfd01a48967d73a0800000000000000
+      internalID: -6666041476988739647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 98
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cb051628dc441f0800000000000000
+      internalID: -1061497652290470854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 76
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4180467b8e8426860800000000000000
+      internalID: 7521654492008548372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6508e61c0cfa83460800000000000000
+      internalID: 7221715244902416470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 94
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9014a1df0dd5a1480800000000000000
+      internalID: -8927720159127650039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed6cd1596dcff7d0800000000000000
+      internalID: -2882359384265167387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dae56b0cfcd2b10800000000000000
+      internalID: 1958449839576362323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc2c50f6e117eca0800000000000000
+      internalID: -5987797495993062194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6f67330c76a5e80800000000000000
+      internalID: -8189118897225009437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b95a8533fb3cdad0800000000000000
+      internalID: -2676198162803566157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c95a5dc68956c40800000000000000
+      internalID: 5504973712738589789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e5381489ddc17b0800000000000000
+      internalID: -5252079419416945139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 54
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69933d1881677adf0800000000000000
+      internalID: -169036613373707882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14fc7144edc87490800000000000000
+      internalID: -7748216778655992806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e467cb196b6c70800000000000000
+      internalID: 8965375051241415832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 75
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d999298e611f1c0800000000000000
+      internalID: -4471767766854427268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33faa925c52e702d0800000000000000
+      internalID: -3312430114756972749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 75
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920677673cf1d8720800000000000000
+      internalID: 2849969063562010665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddcb82739f8e8870800000000000000
+      internalID: 8687038594688994779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05acf2a2caa286a0800000000000000
+      internalID: -6448403963506285300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 51
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cb28894486fa680800000000000000
+      internalID: -8741653707877073807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 76
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11e7564138b68460800000000000000
+      internalID: 7243679572445094171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39b563fb74926b30800000000000000
+      internalID: 4279145856040810815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a475864d1f6f881e0800000000000000
+      internalID: -2195233299831957686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 10
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e9893bc92c22170800000000000000
+      internalID: 8152292253777829414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e64bb61076472900800000000000000
+      internalID: 659573317664720608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0f5ae5a092f5800800000000000000
+      internalID: 603245999605281016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc079cd6444a8ea60800000000000000
+      internalID: 7703587776423882955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 33
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ded3a9b1d075b90800000000000000
+      internalID: -7253314262653866735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_49
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 36
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4563b1c2df82670800000000000000
+      internalID: 8514333461420856497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa46b23f35eeda0800000000000000
+      internalID: -5913696956820705420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd64fbb49f1af770800000000000000
+      internalID: 8645257158360067523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ba93efaa2d32ff0800000000000000
+      internalID: -61974338001589448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb711d154ecbbb90800000000000000
+      internalID: -7224954380950078482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dustpack_54
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e560fa3a9431f10800000000000000
+      internalID: 2239214407098195537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dustpack_0: -6031803006995076611
+      Dustpack_1: 6353914399487643272
+      Dustpack_10: 4304257071758556049
+      Dustpack_11: -6511180062234553945
+      Dustpack_12: -5637598943931335444
+      Dustpack_13: 8355942555549989146
+      Dustpack_14: -5939936547900563152
+      Dustpack_15: -463671862601307089
+      Dustpack_16: 7543749826438383042
+      Dustpack_17: -2417925078642256175
+      Dustpack_18: -4732851962474233356
+      Dustpack_19: 7765766302708242707
+      Dustpack_2: -3112366505067452433
+      Dustpack_20: -6666041476988739647
+      Dustpack_21: -1061497652290470854
+      Dustpack_22: 7521654492008548372
+      Dustpack_23: 7221715244902416470
+      Dustpack_24: -8927720159127650039
+      Dustpack_25: -2882359384265167387
+      Dustpack_26: 1958449839576362323
+      Dustpack_27: -5987797495993062194
+      Dustpack_28: -8189118897225009437
+      Dustpack_29: -2676198162803566157
+      Dustpack_3: 3511870326388446988
+      Dustpack_30: 5504973712738589789
+      Dustpack_31: -5252079419416945139
+      Dustpack_32: -169036613373707882
+      Dustpack_33: -7748216778655992806
+      Dustpack_34: 8965375051241415832
+      Dustpack_35: -4471767766854427268
+      Dustpack_36: -3312430114756972749
+      Dustpack_37: 2849969063562010665
+      Dustpack_38: 8687038594688994779
+      Dustpack_39: -6448403963506285300
+      Dustpack_4: 6027789672741506301
+      Dustpack_40: -8741653707877073807
+      Dustpack_41: 7243679572445094171
+      Dustpack_42: 4279145856040810815
+      Dustpack_43: -2195233299831957686
+      Dustpack_44: 8152292253777829414
+      Dustpack_45: 659573317664720608
+      Dustpack_46: 603245999605281016
+      Dustpack_47: 7703587776423882955
+      Dustpack_48: -7253314262653866735
+      Dustpack_49: 8514333461420856497
+      Dustpack_5: -2610223811689288039
+      Dustpack_50: -5913696956820705420
+      Dustpack_51: 8645257158360067523
+      Dustpack_52: -61974338001589448
+      Dustpack_53: -7224954380950078482
+      Dustpack_54: 2239214407098195537
+      Dustpack_6: 8087337024783468399
+      Dustpack_7: 4183453928110404543
+      Dustpack_8: -1464826623178444848
+      Dustpack_9: -1587382806777767697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
